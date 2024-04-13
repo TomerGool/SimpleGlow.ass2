@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">SimpleGlow</string>
+    <string name="connected_user_text">Connected User: %s</string>
+    <string name="default_user_text">Default User</string>
+</resources>
